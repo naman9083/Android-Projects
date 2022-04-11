@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Home"
+        android:title="@string/home"
+
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item
+        android:id="@+id/Science"
+        android:title="@string/science"
+        android:icon="@drawable/ic_baseline_science_24"/>
+    <item
+        android:id="@+id/Health"
+        android:title="@string/health"
+        android:icon="@drawable/health"/>
+<!--    <item-->
+<!--        android:id="@+id/Technology"-->
+<!--        android:title="@string/technology"-->
+<!--        android:icon="@drawable/phone"/>-->
+    <item
+        android:id="@+id/Sports"
+        android:title="@string/sports"
+        android:icon="@drawable/ic_baseline_sports_baseball_24"/>
+    <item
+        android:id="@+id/Entertainment"
+        android:title="@string/entertainment"
+        android:icon="@drawable/ic_baseline_movie_filter_24"/>
+<!--    <item-->
+<!--        android:id="@+id/Business"-->
+<!--        android:title="@string/business"-->
+<!--        android:icon="@drawable/ic_baseline_attach_money_24"/>-->
+
+</menu>
