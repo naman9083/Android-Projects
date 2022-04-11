@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RandomApiGenerator</string>
+    <string name="Title">Anonymous Data Generator</string>
+    <string name="imgDesc">desc</string>
+    <string name="Name">NAME OF RANDOM PERSON</string>
+    <string name="DOB">DOB OF RANDOM PERSON</string>
+    <string name="Gender">GENDER OF RANDOM PERSON</string>
+    <string name="Email">Email OF RANDOM PERSON</string>
+    <string name="UserID">USERNAME OF RANDOM PERSON</string>
+    <string name="Address">ADDRESS OF RANDOM PERSON</string>
+    <string name="button">GetDATA</string>
+
+</resources>

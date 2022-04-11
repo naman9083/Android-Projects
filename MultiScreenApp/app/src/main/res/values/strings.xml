@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MultiScreenApp</string>
+    <string name="Name">TANZ Restaurant</string>
+    <string name="button1">PLACE ORDER</string>
+    <string name="Second_Activity">Order Activity</string>
+</resources>

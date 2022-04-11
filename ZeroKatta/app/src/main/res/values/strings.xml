@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZeroKatta</string>
+    <string name="Welcome">Zero-Katta Khelo!</string>
+    <string name="ZeroKatta">ZeroKattaImage</string>
+    <string name="zeroImage">ZeroImage</string>
+    <string name="KattaImage">KattaImage</string>
+    <string name="StatusBar">X\'s Turn! Tap to Play!</string>
+    <string name="Reset">Reset</string>
+</resources>

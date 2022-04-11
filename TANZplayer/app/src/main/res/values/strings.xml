@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TANZ player</string>
+    <string name="Pause">Pause</string>
+    <string name="Stop">Stop</string>
+    <string name="Play">Play</string>
+    <string name="Name">TANZ Player - Play Your Favorite Music!</string>
+    <string name="Volume">Volume</string>
+</resources>

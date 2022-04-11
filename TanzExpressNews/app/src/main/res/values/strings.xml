@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TanzXpress News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="health">Health</string>
+    <string name="homeNews">Top General Headlines</string>
+    <string name="ScienceNews">Top Science Headlines</string>
+    <string name="SportsNews">Top Sports Headlines</string>
+    <string name="HealthNews">Top Health Headlines</string>
+    <string name="technology">Technology</string>
+    <string name="science">Science</string>
+    <string name="readDetails">Read Details</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="entertainmentNews">Top Entertainment Headlines</string>
+    <string name="sports">Sports</string>
+    <string name="business">Business</string>
+    <string name="todo">TODO</string>
+    <string name="Second_Activity">     Detailed News     </string>
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_settings">Settings</string>
+
+</resources>
